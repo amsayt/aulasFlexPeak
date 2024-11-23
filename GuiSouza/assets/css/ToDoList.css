@@ -1,0 +1,14 @@
+.menu-navegation{
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu-navegation a{
+    margin: 5px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
